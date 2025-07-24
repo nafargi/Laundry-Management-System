@@ -1,0 +1,1 @@
+this a registry for API calls in a laundry management system. Each file contains functions to interact with different parts of the system, such as authentication, customers, orders, and services. The comments indicate the purpose of each file and its contents.
